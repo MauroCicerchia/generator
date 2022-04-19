@@ -111,10 +111,6 @@
         ],
         "no-var": "error",
         "no-use-before-define": "off",
-        "comma-dangle": [
-            "error",
-            "always-multiline"
-        ],
         "import/order": [
             "error",
             {
