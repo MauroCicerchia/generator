@@ -149,8 +149,7 @@
                 "return": "parens-new-line",
                 "arrow": "parens-new-line",
                 "condition": "parens-new-line",
-                "logical": "parens-new-line",
-                "prop": "parens-new-line"
+                "logical": "parens-new-line"
             }
         ],
         "react/jsx-max-props-per-line": [
