@@ -45,10 +45,6 @@
             }
         ],
         "no-trailing-spaces": "error",
-        "semi": [
-            "error",
-            "always"
-        ],
         "object-curly-spacing": [
             "error",
             "always"
